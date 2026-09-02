@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://test-lb-587285437.us-east-1.elb.amazonaws.com'
+  apiUrl: 'https://poll-lb-557589263.us-east-1.elb.amazonaws.com'
 };
