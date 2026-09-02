@@ -1,0 +1,46 @@
+src/environments/environment.ts
+  h_669e563de5696a 1-4
+src/environments/environment.development.ts
+  h_669e563de5696a 1-5
+src/app/app.component.ts
+  h_669e563de5696a 2-5,7,9,12,16,20-23,26-27,30-31,35-39,42-46,49-55
+  s_2a1ce581c4d5ea::t_dbc0089faded67 1,6,8,10-11,13-15,17-19,24-25,28-29,32-34,40-41,47-48,56
+src/app/app.component.html
+  h_669e563de5696a 1-3,7,13-14,22,24-25
+  s_2a1ce581c4d5ea::t_325f54be32dac7 4-6,8-12,15-21,23,26-27
+src/main.ts
+  h_669e563de5696a 3,5
+src/app/poll.service.ts
+  s_2a1ce581c4d5ea::t_9f421ef153b6c7 1,19,33
+  h_669e563de5696a 2-18,20-32
+src/app/app.component.css
+  h_669e563de5696a 1-32
+src/app/app.config.ts
+  s_2a1ce581c4d5ea::t_eb5f828376bb17 2-3,7-9
+  s_2a1ce581c4d5ea::t_edab4bd29afdce 1
+src/main.server.ts
+  s_2a1ce581c4d5ea::t_9b399784dd0293 2,6
+angular.json
+  h_669e563de5696a 27,56-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "4215367810fce89a60eda4b272e7f027911415c6",
+  "prompts": {},
+  "humans": {
+    "h_669e563de5696a": {
+      "author": "Nicolás Fornaro <nfornaro@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_2a1ce581c4d5ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ef7e9a0-36dd-4a8e-b778-e7ad2882bff3",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Nicolás Fornaro <nfornaro@gmail.com>"
+    }
+  }
+}
