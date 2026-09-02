@@ -1,0 +1,16 @@
+src/environments/environment.ts
+  h_669e563de5696a 3
+src/environments/environment.development.ts
+  h_669e563de5696a 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5e5d7ac567cbf98214079a829c50a817ff9b7ca9",
+  "prompts": {},
+  "humans": {
+    "h_669e563de5696a": {
+      "author": "Nicolás Fornaro <nfornaro@gmail.com>"
+    }
+  }
+}
