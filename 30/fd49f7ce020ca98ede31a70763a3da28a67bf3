@@ -1,0 +1,64 @@
+.claude/CLAUDE.md
+  h_669e563de5696a 1-55
+.editorconfig
+  h_669e563de5696a 1-17
+.gitignore
+  h_669e563de5696a 1-44
+.prettierrc
+  h_669e563de5696a 1-12
+.vscode/extensions.json
+  h_669e563de5696a 1-4
+.vscode/launch.json
+  h_669e563de5696a 1-20
+.vscode/mcp.json
+  h_669e563de5696a 1-9
+.vscode/tasks.json
+  h_669e563de5696a 1-42
+README.md
+  h_669e563de5696a 1-59
+angular.json
+  h_669e563de5696a 1-81
+package-lock.json
+  h_669e563de5696a 1-8709
+package.json
+  h_669e563de5696a 1-38
+src/app/app.config.server.ts
+  h_669e563de5696a 1-12
+src/app/app.config.ts
+  h_669e563de5696a 1-9
+src/app/app.html
+  h_669e563de5696a 1-343
+src/app/app.routes.server.ts
+  h_669e563de5696a 1-8
+src/app/app.spec.ts
+  h_669e563de5696a 1-23
+src/app/app.ts
+  h_669e563de5696a 1-11
+src/index.html
+  h_669e563de5696a 1-13
+src/main.server.ts
+  h_669e563de5696a 1-8
+src/main.ts
+  h_669e563de5696a 1-6
+src/server.ts
+  h_669e563de5696a 1-68
+src/styles.css
+  h_669e563de5696a 1
+tsconfig.app.json
+  h_669e563de5696a 1-17
+tsconfig.json
+  h_669e563de5696a 1-33
+tsconfig.spec.json
+  h_669e563de5696a 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "30fd49f7ce020ca98ede31a70763a3da28a67bf3",
+  "prompts": {},
+  "humans": {
+    "h_669e563de5696a": {
+      "author": "Nicolás Fornaro <nfornaro@gmail.com>"
+    }
+  }
+}
